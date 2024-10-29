@@ -1,0 +1,1 @@
+put .pth here as input GFPGAN model
